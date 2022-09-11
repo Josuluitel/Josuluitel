@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Josuluitel
 - 👀 I’m interested in coding and exploring my self 
-- 🌱 I’m currently learning .htnl css javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning .html css javascript
+    Going to learn more languages in coming days
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
