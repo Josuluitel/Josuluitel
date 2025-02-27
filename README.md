@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding and exploring my self 
 - 🌱 I’m currently learning .html css javascript
     Going to learn more languages in coming days
+   start working at python and django
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
